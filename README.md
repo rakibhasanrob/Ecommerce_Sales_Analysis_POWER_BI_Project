@@ -1,8 +1,6 @@
 
 # Ecommerce Sales Analysis Report
 
-![Ecom pbi](https://github.com/user-attachments/assets/0765a6b5-ad98-4b24-bf38-cc1047b99751)
-
 
 ### Introduction:
 The aim of this project is to analyze the sales performance of a company in the year 2011 to 2014. With increasing competition, understanding sales trends and identifying key factors influencing performance are crucial for strategic planning.
@@ -28,4 +26,5 @@ The aim of this project is to analyze the sales performance of a company in the 
 *	Top 3 profitable sub-categories are Copiers, phones and Accessories.
 *	New York City is the most profitable City
 
+![Ecom pbi](https://github.com/user-attachments/assets/0765a6b5-ad98-4b24-bf38-cc1047b99751)
 
